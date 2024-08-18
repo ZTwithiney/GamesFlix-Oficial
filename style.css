@@ -1,0 +1,102 @@
+body {
+
+    color: white;
+    background-color: black;
+}
+
+.Titulo {
+    margin: 80px;
+    font-size: 50px;
+
+
+}
+
+p {font-size: 17px;}
+header {
+    border-bottom: solid 1px rgb(0, 97, 2);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(0, 97, 2);
+}
+
+.parte1 {
+    border-bottom: solid 1px white;
+    margin: 80px;
+    justify-content: center;
+}
+
+
+
+.parte2 {
+    border-bottom: solid 1px white;
+    margin: 80px;
+    justify-content: center;
+}
+
+.parte3 {
+    border-bottom: solid 1px white;
+    margin: 80px;
+    justify-content: center;
+}
+
+.parte4 {
+    border-bottom: solid 1px white;
+    margin: 80px;
+    justify-content: center;
+}
+
+.parte5 {
+    border-bottom: solid 1px white;
+    margin: 80px;
+    justify-content: center;
+}
+
+.Recomendações {
+    margin: 80px;
+    display: grid;
+    gap: 20px;
+}
+
+.R1 {
+    display: flex;
+    gap: 20px;
+}
+
+.R2 {
+    display: flex;
+    gap: 20px;
+}
+
+.R3 {
+    display: flex;
+    gap: 20px;
+}
+
+img {
+    height: 100px;
+    width: 200px;;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+
+}
+
+.Recomendações a:hover {
+    color: rgb(0, 152, 35);
+    
+}
+
+.Coment {
+    margin: 80px;
+    padding: 10px;
+}
+.mb-3 {
+    width: 200px;
+}
+
+.marca {
+    text-align: end;
+    color: rgba(255, 255, 255, .2);
+}
